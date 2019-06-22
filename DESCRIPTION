@@ -1,0 +1,15 @@
+Package: fastCS
+Type: Package
+Version: 0.1-0
+Date: 2019-06-21
+Title: Analyzing correlated data with covariance matrix with compound-symmetry structure
+Authors@R: c(
+	person("Vahid","Nassiri", email = "vahid.nassiri@openanalytics.eu", role = "cre"))
+Maintainer: Vahid Nassiri <vahid.nassiri@openanalytics.eu>
+Description: Functions implementing the methology described in the paper "Hermans, Lisa, 
+	Vahid Nassiri, Geert Molenberghs, Michael G. Kenward, Wim Van der Elst, 
+	Marc Aerts, and Geert Verbeke. "Clusters with unequal size: 
+	Maximum likelihood versus weighted estimation in large samples." Statistica Sinica (2018)."
+License: GPL (>=2)
+Encoding: UTF-8 
+RoxygenNote: 6.1.0
